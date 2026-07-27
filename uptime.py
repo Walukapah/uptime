@@ -10,6 +10,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 URLS_TO_MONITOR = [
     "https://google.com",
     "https://wpms-uptime.hf.space",
+    "https://wpms-wpmfun.hf.space",
     # ඕනෙ තරම් links දාන්න පුළුවන්
 ]
 
