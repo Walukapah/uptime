@@ -9,7 +9,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 # මෙතනට ඔයාගේ URLs දාන්න
 URLS_TO_MONITOR = [
     "https://google.com",
-    "https://github.com",
+    "https://wpms-uptime.hf.space",
     # ඕනෙ තරම් links දාන්න පුළුවන්
 ]
 
