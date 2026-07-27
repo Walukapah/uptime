@@ -8,7 +8,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 # ==================== CONFIG ====================
 # මෙතනට ඔයාගේ URLs දාන්න
 URLS_TO_MONITOR = [
-    "https://google.com",
+    "https://uptime-xrrj.onrender.com",
     "https://wpms-uptime.hf.space",
     "https://wpms-wpmfun.hf.space",
     # ඕනෙ තරම් links දාන්න පුළුවන්
