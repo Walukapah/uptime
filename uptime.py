@@ -11,6 +11,7 @@ URLS_TO_MONITOR = [
     "https://uptime-xrrj.onrender.com",
     "https://wpms-uptime.hf.space",
     "https://wpms-wpmfun.hf.space",
+    "https://wpms-wpms.hf.space",
     # ඕනෙ තරම් links දාන්න පුළුවන්
 ]
 
