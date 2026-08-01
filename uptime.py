@@ -15,6 +15,7 @@ URLS_TO_MONITOR = [
     "https://youtubedl-skbk.onrender.com",
     "https://pornhub-nq7x.onrender.com",
     "https://sriconvert.onrender.com",
+    "https://sriyoutube.onrender.com",
     # ඕනෙ තරම් links දාන්න පුළුවන්
 ]
 
